@@ -45,7 +45,7 @@ global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = 'stickerby'
 global.author = `𝙿𝚊𝚝𝚛𝚒𝚌𝚔 𝙱𝚘𝚝`
 global.wm = 'Kanjut'
-global.watermark = karyl
+global.watermark ='karyl'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
 global.instagram = 'https://chat.whatsapp.com/E8LJ85LRwfCFb92jev7Omn'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23401620&text='
